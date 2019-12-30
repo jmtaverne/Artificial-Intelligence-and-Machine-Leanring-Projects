@@ -21,8 +21,8 @@
 
 
 ## 4 - Image Classification:
-##### Within this Project you are going to build an image classification model using Keras running on Tensorflow. 
+##### Within this Project you are going to build an image classification model using Keras running on Tensorflow. More information about Keras can be found at: https://keras.io. 
 
 
 ## 5 - Machine Translation:
-##### Within this Project you are going to build a Sequence2Sequence Deep Learning Model using PyTorch.
+##### Within this Project you are going to build a Sequence2Sequence Deep Learning Model using PyTorch. More information about PyTorch can be found at: https://pytorch.org. 
