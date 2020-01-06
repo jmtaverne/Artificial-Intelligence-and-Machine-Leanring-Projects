@@ -26,3 +26,7 @@
 
 ## 5 - Machine Translation:
 ##### Within this Project you are going to build a Sequence2Sequence Deep Learning Model using PyTorch. More information about PyTorch can be found at: https://pytorch.org. 
+
+
+## 6 - Time series forecasting:
+##### Within this project you're going to use a LSTM Model for weather prediction.
